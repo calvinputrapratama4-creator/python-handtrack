@@ -62,4 +62,8 @@ python main.py
 
 ---
 **Catatan:** Pastikan ruangan memiliki pencahayaan yang cukup agar deteksi tangan dari kamera dapat bekerja dengan optimal.
+<<<<<<< HEAD
   
+=======
+  
+>>>>>>> 33cc32d (Initial commit)
